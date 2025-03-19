@@ -1,7 +1,4 @@
-// Name : Jacob Zenner
-// Class : CSC 456
-// Instructor: Dr. Huang
-// Assignment: Programming Assignment 2
+// Multithreading Program Example
 
 #include <stdio.h>
 #include <stdlib.h>
